@@ -1,4 +1,4 @@
-import { calculateValidatedDocumentsPercentage } from './algo.js'
+import { calculateValidatedDocumentsPercentage } from './documents.js'
 
 const projects = [
   {
